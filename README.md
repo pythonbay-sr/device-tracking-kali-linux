@@ -13,9 +13,11 @@ git clone https://github.com/inconshreveable/ngrok
 git clone https://github.com/thewhiteh4t/seeker
 ```
 
-1. Step - Go to the destination where you downloaded the seeker and run the script.
+# 1. Step
+
+Go to the destination where you downloaded the seeker and run the script.
 
 ![alt text](https://github.com/nikolakosticc/device-tracking-kali-linux/blob/main/images/11.%20Step.png)
 
 
-2. Step - 
+# 2. Step - 
