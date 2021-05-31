@@ -9,6 +9,5 @@ Open a ngrok account at ngrok.com and copy the auth token.
 ```bash
 git clone https://github.com/inconshreveable/ngrok
 ./ngrok authtoken <auth token goes here>
-
 git clone https://github.com/thewhiteh4t/seeker
 ```
