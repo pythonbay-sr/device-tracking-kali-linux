@@ -5,9 +5,12 @@ This repository is made for EDUCATIONAL PURPOSES ONLY!!! You are under no circum
 # Installation
 
 Open a ngrok account at ngrok.com and copy the auth token.
+You can git clone the ngrok or simply download it and unzip it.
 
 ```bash
 git clone https://github.com/inconshreveable/ngrok
 ./ngrok authtoken <auth token goes here>
 git clone https://github.com/thewhiteh4t/seeker
 ```
+
+1. Step - 
