@@ -15,7 +15,7 @@ git clone https://github.com/thewhiteh4t/seeker
 
 1. Step - Go to the destination where you downloaded the seeker and run the script.
 
-![alt text](https://github.com/nikolakosticc/cryptocurrency-prices-demo/blob/main/images/home_photo.png)
+![alt text](https://github.com/nikolakosticc/device-tracking-kali-linux/blob/main/images/1.%20Step.png)
 
 
 2. Step - 
