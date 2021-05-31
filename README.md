@@ -4,4 +4,10 @@ This repository is made for EDUCATIONAL PURPOSES ONLY!!! You are under no circum
 
 # Installation 
 
-
+```bash
+git clone https://github.com/thewhiteh4t/seeker.git
+cd seeker/
+apt update
+apt install python3 python3-pip php
+pip3 install requests
+```
