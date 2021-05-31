@@ -13,4 +13,4 @@ git clone https://github.com/inconshreveable/ngrok
 git clone https://github.com/thewhiteh4t/seeker
 ```
 
-1. Step - 
+1. Step - Go to the destination where you downloaded the seeker and run the script.
