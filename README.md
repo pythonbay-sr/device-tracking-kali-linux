@@ -25,3 +25,9 @@ Go to the destination where you downloaded the seeker and run the script.
 Type the number 0 in order to create a server.
 
 ![alt text](https://github.com/nikolakosticc/device-tracking-kali-linux/blob/main/images/2.%20Step.png)
+
+# 3. Step
+
+Open a new tab
+
+![alt text](https://github.com/nikolakosticc/device-tracking-kali-linux/blob/main/images/3.%20Step.png)
