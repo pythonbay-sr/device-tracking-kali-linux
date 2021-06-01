@@ -31,3 +31,4 @@ Type the number 0 in order to create a server.
 Open a new tab and create a link that is going to be connected to the same port and server.
 
 ![alt text](https://github.com/nikolakosticc/device-tracking-kali-linux/blob/main/images/3.%20Step.png)
+![alt text](https://github.com/nikolakosticc/device-tracking-kali-linux/blob/main/images/3.%20Step%20-%202.%20Phase.png)
