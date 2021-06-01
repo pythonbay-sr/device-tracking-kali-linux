@@ -31,4 +31,12 @@ Type the number 0 in order to create a server.
 Open a new tab and create a link that is going to be connected to the same port and server.
 
 ![alt text](https://github.com/nikolakosticc/device-tracking-kali-linux/blob/main/images/3.%20Step.png)
+
+Once the link has been created, send it to the other person.
+
 ![alt text](https://github.com/nikolakosticc/device-tracking-kali-linux/blob/main/images/3.%20Step%20-%202.%20Phase.png)
+
+
+# Result
+
+When the other person opens the link all http results should be : "OK"
