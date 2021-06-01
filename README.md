@@ -28,6 +28,6 @@ Type the number 0 in order to create a server.
 
 # 3. Step
 
-Open a new tab
+Open a new tab and create a link that is going to be connected to the same port and server.
 
 ![alt text](https://github.com/nikolakosticc/device-tracking-kali-linux/blob/main/images/3.%20Step.png)
