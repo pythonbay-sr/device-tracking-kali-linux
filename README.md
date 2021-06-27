@@ -40,3 +40,6 @@ Once the link has been created, send it to the other person.
 # Result
 
 When the other person opens the link all http results should be : "OK"
+Then, when the person clicks on the button "Next" and allows a pop-up, this should be the final result : 
+
+![alt text](https://github.com/nikolakosticc/device-tracking-kali-linux/blob/main/images/Result.jpg)
